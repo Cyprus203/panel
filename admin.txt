@@ -1,0 +1,10 @@
+admin/
+admin@123/
+Admin/
+ADMIN/
+admin/login.php
+admin/dashboard.php
+admin/menu.php
+admin/home.php
+superadmin/
+manage/
